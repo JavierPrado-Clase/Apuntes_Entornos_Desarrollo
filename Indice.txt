@@ -1,4 +1,7 @@
 	Capitulo 0: Introducción a entornos de desarrollo.
 	Capítulo 1: IDE de desarrollo mas comunes
+		-Apartado 1:lfpdbijnogfibnogfin
+		-Apartado 2:lfpdbijnogfibnogfin
+		-Apartado 3:lfpdbijnogfibnogfin
 	Capitulo 2: Repositorios de Código
 	Capítulo 3: UML
